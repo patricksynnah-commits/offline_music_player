@@ -6,6 +6,7 @@ plugins {
 }
 
 android {
+namespace = "com.example.offline_music_player"
     namespace = "com.example.offline_music_player"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
